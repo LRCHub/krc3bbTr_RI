@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "TAKE ME BABY",
+  "base_artist": "MICKEY B.",
+  "createdAt": "2025-12-11T15:05:04.984965Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Take Me Baby",
+      "artist": "Jimi Tenor",
+      "has_synced": true,
+      "path": "select/01_Take_Me_Baby_Jimi_Tenor.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take Me Baby",
+      "artist": "Scooter",
+      "has_synced": true,
+      "path": "select/02_Take_Me_Baby_Scooter.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take Me Baby",
+      "artist": "Jimi Tenor",
+      "has_synced": true,
+      "path": "select/03_Take_Me_Baby_Jimi_Tenor.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "TAKE ME BABY",
+      "artist": "Mickey B.",
+      "has_synced": false,
+      "path": "select/04_TAKE_ME_BABY_Mickey_B..txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take Me Baby [Single]",
+      "artist": "Jimi Tenor",
+      "has_synced": true,
+      "path": "select/05_Take_Me_Baby_[Single]_Jimi_Tenor.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take Me Baby",
+      "artist": "Gusgus",
+      "has_synced": false,
+      "path": "select/06_Take_Me_Baby_Gusgus.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take Me Baby",
+      "artist": "Scooter",
+      "has_synced": false,
+      "path": "select/07_Take_Me_Baby_Scooter.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Take Me Baby feat. Jimi Tenor",
+      "artist": "GusGus",
+      "has_synced": false,
+      "path": "select/08_Take_Me_Baby_feat._Jimi_Tenor_GusGus.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take Me Baby (original mix)",
+      "artist": "Jimi Tenor",
+      "has_synced": true,
+      "path": "select/09_Take_Me_Baby_(original_mix)_Jimi_Tenor.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Take Me Baby",
+      "artist": "GusGus feat. Jimi Tenor",
+      "has_synced": false,
+      "path": "select/10_Take_Me_Baby_GusGus_feat._Jimi_Tenor.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Take Me Baby",
+      "artist": "Mickey B.",
+      "has_synced": false,
+      "path": "select/pl_01_Take_Me_Baby_Mickey_B..txt"
+    }
+  ]
+}
